@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0014/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0014/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那成佛神變加持經略示七支念誦隨行法
+  identifiers:
+    krp: KR6j0014
+    cbeta: T18n0856
+    cbeta_old_id: T18n0856
+    authorityid: CA0000645
+    json_key: T0856
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0856.xml
+    old_id: T18n0856
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0014_000-T.yaml, hash: 'sha256:a362669972cd2ec2a1aed3db3600d9db870c8968de2d87c1ef150b11d24a3543'}
+  - {seq: 1, filename: KR6j0014_001-T.yaml, hash: 'sha256:8acebc3c7b182bdd4f93de02b941a951af4bebf7059726c4317dd42d4b5633b7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0014_000-T.markers.yaml, hash: 'sha256:4311973a49494acb1fd07727f402cf7fd35bffe0584aaab0cc4801670b4cb207'}
+  - {seq: 1, role: markers, filename: assets/KR6j0014_001-T.markers.yaml, hash: 'sha256:262b71ce203f34e156f6f0b8559b39f5e986522cd87be3df21c64d2aca406d0e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0014_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1182
+  label: '大毘盧遮那成佛神變加持經略
+
+    示七支念誦隨行法'
+  type: juan
+  level: 1
+hash: sha256:9d76feddc0b13bdce17324aed12cdb0ed4aacdf3faaa6c0b97c4a9bb2ede8773

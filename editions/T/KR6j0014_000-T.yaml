@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0014/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那成佛神變加持經略示七支念誦隨行法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0856.xml
+    old_id: T18n0856
+hash: sha256:a362669972cd2ec2a1aed3db3600d9db870c8968de2d87c1ef150b11d24a3543
