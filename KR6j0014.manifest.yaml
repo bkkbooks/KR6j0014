@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0014_000.yaml, hash: 'sha256:a362669972cd2ec2a1aed3db3600d9db870c8968de2d87c1ef150b11d24a3543'}
-  - {seq: 1, filename: KR6j0014_001.yaml, hash: 'sha256:dc384719900239350f8ae3efb8e89cb8d9b5d513356fdb49ddb31f599a9f2d64'}
+  - {seq: 1, filename: KR6j0014_001.yaml, hash: 'sha256:8acebc3c7b182bdd4f93de02b941a951af4bebf7059726c4317dd42d4b5633b7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0014_001.markers.yaml, hash: 'sha256:12b219bc45bf3e808b373eb0f903ca82c727058f920f2dc4df6d6ed1a2a13afa'}
+  - {seq: 0, role: markers, filename: assets/KR6j0014_000.markers.yaml, hash: 'sha256:dd3bd633949903b1a91247d8db44c3587adab9630e1b69abf0a676dce8849f52'}
+  - {seq: 1, role: markers, filename: assets/KR6j0014_001.markers.yaml, hash: 'sha256:fb24f5879a4eab6a64b085c9cbd1ba94c7f2ebb751bd7bfa40cbdf53e1fd4b95'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,7 +48,4 @@ table_of_contents:
     示七支念誦隨行法'
   type: juan
   level: 1
-hash: sha256:f31beadfb1ed45b45cdf8c242c61c9617c100e5544e24287783bfcbe0f7f83e4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2a3d622779f934b9eb797414a220c1fb27e04fafa222da4a25421a362336b4cc
